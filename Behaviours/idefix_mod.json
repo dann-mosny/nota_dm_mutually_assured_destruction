@@ -1,0 +1,630 @@
+{
+	"additionalNodes": [],
+	"additionalParameters": {
+		"root": {
+			"height": 88,
+			"width": 180
+		}
+	},
+	"inputs": [],
+	"outputs": [],
+	"properties": {
+		"2ksXAjQ1PSojAYzGAN4VO0FPJ2ZlBp6Q": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 1422,
+			"y": -295
+		},
+		"3Km8lrwYNBta6SjJLFMbOTztlBcUJinM": {
+			"height": 94,
+			"title": "store",
+			"width": 576,
+			"x": 1990,
+			"y": -144
+		},
+		"70DTi2QhSuPKiDtDS5HBRUtF3JhRixgY": {
+			"height": 90,
+			"title": "luaCondition",
+			"width": 205,
+			"x": 3349,
+			"y": -217
+		},
+		"7xCF8SZXrjZSsjFvUnM09qt4ysFvhAOl": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 1668,
+			"y": 380
+		},
+		"8ETDSQnlpRyHYpHgfTSATQay6zFM8Dg8": {
+			"height": 90,
+			"title": "luaCondition",
+			"width": 618,
+			"x": 1955,
+			"y": -383
+		},
+		"8Uq8ogGebPKIl7CI3DcM3iyzlDb1ljO9": {
+			"height": 193,
+			"title": "mid gatherers",
+			"width": 307,
+			"x": 2104,
+			"y": 355
+		},
+		"9MgcqCOrSd4PesJRSj1JUJSZ0dATYlXC": {
+			"height": 70,
+			"title": "parallel",
+			"width": 202,
+			"x": 1078,
+			"y": 34
+		},
+		"BTP4kDPoeIa3k6azPnnknITjhSiPbT8W": {
+			"height": 92,
+			"title": "store",
+			"width": 192,
+			"x": 497,
+			"y": -396
+		},
+		"CkA6GcuKnqAaJ5p1y6TcTLfZ3UgT3BHT": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 1645,
+			"y": 57
+		},
+		"Cs7uetJW4WAjw3oMoPomW17KXdHdGRpD": {
+			"height": 193,
+			"title": "top gatherers",
+			"width": 307,
+			"x": 2112,
+			"y": 180
+		},
+		"LVQGChMD3fFGAkuRztPLHKioXL5BYx09": {
+			"height": 90,
+			"title": "luaCondition",
+			"width": 302,
+			"x": 2973,
+			"y": -318
+		},
+		"MAxS4iB0jDQvYTubx1xRwhB8CtLDDH10": {
+			"height": 94,
+			"title": "store",
+			"width": 522,
+			"x": 2006,
+			"y": -259
+		},
+		"NHzjjlz55Bu5e4bi3N71EDPWH0chrZZo": {
+			"height": 151,
+			"title": "soldiers",
+			"width": 300,
+			"x": 2105,
+			"y": 17
+		},
+		"UskroBrWLG0EYwYWNsEmpTBl2ljZWzbr": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 1639,
+			"y": 207
+		},
+		"VdBJJeFJxdTkuEwftT4LSNZJKNecV917": {
+			"height": 54,
+			"title": "success",
+			"width": 132,
+			"x": 4224,
+			"y": -16
+		},
+		"X6ycUAncDLPu9kq9H7d0wiFakO3NVNXX": {
+			"height": 72,
+			"title": "nota_idefix_exampreparation.buyUnits",
+			"width": 306,
+			"x": 2972,
+			"y": -446
+		},
+		"YxeUfKz7Veo3Q4lWJIKaEGdLf9BJDdE3": {
+			"height": 92,
+			"title": "nota_idefix_exampreparation.upgradeLine",
+			"width": 331,
+			"x": 4211,
+			"y": -129
+		},
+		"ZHpI5HxZhuXCGfYRRZbfrxoiDfM3rHKn": {
+			"height": 94,
+			"title": "store",
+			"width": 198,
+			"x": 1956,
+			"y": -895
+		},
+		"aZW5DQJHzTJuSSmZWZtL4KpxDOg7Zsaf": {
+			"height": 94,
+			"title": "store",
+			"width": 524,
+			"x": 1961,
+			"y": -714
+		},
+		"b2NHpRSVhZbgsKiQEoSQehUYIKlAKZtN": {
+			"height": 94,
+			"title": "store",
+			"width": 757,
+			"x": 499,
+			"y": -302
+		},
+		"bSYAi37lAbZDjjdrqwobv8JVEhlIlfqU": {
+			"height": 72,
+			"title": "nota_idefix_exampreparation.buyUnits",
+			"width": 306,
+			"x": 3345,
+			"y": -325
+		},
+		"bTxl5qXO90trrdFj1CUioJjKhyEx3DPL": {
+			"height": 94,
+			"title": "store",
+			"width": 526,
+			"x": 1957,
+			"y": -804
+		},
+		"cxrccQmIxgnQj3LmeBb5IkLYt9iyvsTe": {
+			"height": 94,
+			"title": "store",
+			"width": 524,
+			"x": 1961,
+			"y": -619
+		},
+		"dB2DFN0hh2h66L53Z5BDWOsoux0jWNus": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 283,
+			"y": 9
+		},
+		"ewPbkJ9PVcjuYj4EteHrqoh9ThNZlAqh": {
+			"height": 94,
+			"title": "store",
+			"width": 198,
+			"x": 487,
+			"y": -508
+		},
+		"iHXjDKafBvio1WJAcDGsNcYj4PHdeg8s": {
+			"height": 92,
+			"title": "store",
+			"width": 181,
+			"x": 510,
+			"y": -199
+		},
+		"ikpejD1nmXZwl64i60xfDi7Sx704DpUJ": {
+			"height": 90,
+			"title": "luaCondition",
+			"width": 487,
+			"x": 3642,
+			"y": -99
+		},
+		"mEdC5kooDihpe7XMmEuTxRaUv9WJ1rcB": {
+			"height": 54,
+			"title": "success",
+			"width": 132,
+			"x": 2674,
+			"y": -269
+		},
+		"rSAhGnPJanTchSDQZfNprn2tShMWEXc0": {
+			"height": 72,
+			"title": "nota_idefix_exampreparation.buyUnits",
+			"width": 306,
+			"x": 3614,
+			"y": -234
+		},
+		"sZ122UUgn1PIbUkx9gsERieE7O1ASIz4": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 1677,
+			"y": -396
+		},
+		"vdH4WMtumPgEiDj9wG87aF8uokB8X9uH": {
+			"height": 90,
+			"title": "luaCondition",
+			"width": 302,
+			"x": 2632,
+			"y": -403
+		},
+		"x1hpF8heqj1cICATVHbJ4pRcs9cJIExb": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 1684,
+			"y": -149
+		},
+		"xcGVcEiCLGaEZ8VjbfVYeJtJu7DVLZ4Q": {
+			"height": 92,
+			"title": "store",
+			"width": 186,
+			"x": 512,
+			"y": -98
+		},
+		"yod8B0qL2lD4HLGkC7MbFQPEceu3Ku8i": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 1425,
+			"y": -31
+		}
+	},
+	"roles": [ {
+		"categories": [],
+		"name": "Role 0"
+	} ],
+	"root": {
+		"children": [ {
+			"children": [],
+			"id": "ewPbkJ9PVcjuYj4EteHrqoh9ThNZlAqh",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "missionInfo"
+			}, {
+				"name": "value",
+				"value": "core.MissionInfo()"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [],
+			"id": "BTP4kDPoeIa3k6azPnnknITjhSiPbT8W",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "global.combatUnits"
+			}, {
+				"name": "value",
+				"value": "{{},dict = {}}"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [],
+			"id": "b2NHpRSVhZbgsKiQEoSQehUYIKlAKZtN",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "lanes"
+			}, {
+				"name": "value",
+				"value": "nota_idefix_exampreparation.getFormattedLanes(missionInfo)"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [],
+			"id": "iHXjDKafBvio1WJAcDGsNcYj4PHdeg8s",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "global.gatherers"
+			}, {
+				"name": "value",
+				"value": "{{},{}, dict={}}"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [],
+			"id": "xcGVcEiCLGaEZ8VjbfVYeJtJu7DVLZ4Q",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "gatherersPerLane"
+			}, {
+				"name": "value",
+				"value": "2"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [ {
+				"children": [ {
+					"children": [ {
+						"children": [],
+						"id": "ZHpI5HxZhuXCGfYRRZbfrxoiDfM3rHKn",
+						"nodeType": "luaCommand",
+						"parameters": [ {
+							"name": "var",
+							"value": "missionInfo"
+						}, {
+							"name": "value",
+							"value": "core.MissionInfo()"
+						}, {
+							"name": "scriptName",
+							"value": "store"
+						} ],
+						"scriptName": "store"
+					}, {
+						"children": [],
+						"id": "bTxl5qXO90trrdFj1CUioJjKhyEx3DPL",
+						"nodeType": "luaCommand",
+						"parameters": [ {
+							"name": "var",
+							"value": "global.combatUnits"
+						}, {
+							"name": "value",
+							"value": "nota_idefix_exampreparation.removeInvalidUnits(global.combatUnits)"
+						}, {
+							"name": "scriptName",
+							"value": "store"
+						} ],
+						"scriptName": "store"
+					}, {
+						"children": [],
+						"id": "aZW5DQJHzTJuSSmZWZtL4KpxDOg7Zsaf",
+						"nodeType": "luaCommand",
+						"parameters": [ {
+							"name": "var",
+							"value": "global.gatherers[1]"
+						}, {
+							"name": "value",
+							"value": "nota_idefix_exampreparation.removeInvalidUnits(global.gatherers[1])"
+						}, {
+							"name": "scriptName",
+							"value": "store"
+						} ],
+						"scriptName": "store"
+					}, {
+						"children": [],
+						"id": "cxrccQmIxgnQj3LmeBb5IkLYt9iyvsTe",
+						"nodeType": "luaCommand",
+						"parameters": [ {
+							"name": "var",
+							"value": "global.gatherers[2]"
+						}, {
+							"name": "value",
+							"value": "nota_idefix_exampreparation.removeInvalidUnits(global.gatherers[2])"
+						}, {
+							"name": "scriptName",
+							"value": "store"
+						} ],
+						"scriptName": "store"
+					} ],
+					"id": "sZ122UUgn1PIbUkx9gsERieE7O1ASIz4",
+					"nodeType": "sequence",
+					"parameters": []
+				} ],
+				"id": "2ksXAjQ1PSojAYzGAN4VO0FPJ2ZlBp6Q",
+				"nodeType": "repeat",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [ {
+						"children": [ {
+							"children": [ {
+								"children": [],
+								"id": "X6ycUAncDLPu9kq9H7d0wiFakO3NVNXX",
+								"nodeType": "luaCommand",
+								"parameters": [ {
+									"name": "unitName",
+									"value": "'armfark'"
+								}, {
+									"name": "scriptName",
+									"value": "nota_idefix_exampreparation.buyUnits"
+								} ],
+								"scriptName": "nota_idefix_exampreparation.buyUnits"
+							}, {
+								"children": [ {
+									"children": [],
+									"id": "bSYAi37lAbZDjjdrqwobv8JVEhlIlfqU",
+									"nodeType": "luaCommand",
+									"parameters": [ {
+										"name": "unitName",
+										"value": "'armmav'"
+									}, {
+										"name": "scriptName",
+										"value": "nota_idefix_exampreparation.buyUnits"
+									} ],
+									"scriptName": "nota_idefix_exampreparation.buyUnits"
+								}, {
+									"children": [ {
+										"children": [],
+										"id": "rSAhGnPJanTchSDQZfNprn2tShMWEXc0",
+										"nodeType": "luaCommand",
+										"parameters": [ {
+											"name": "unitName",
+											"value": "'armmav'"
+										}, {
+											"name": "scriptName",
+											"value": "nota_idefix_exampreparation.buyUnits"
+										} ],
+										"scriptName": "nota_idefix_exampreparation.buyUnits"
+									}, {
+										"children": [ {
+											"children": [],
+											"id": "YxeUfKz7Veo3Q4lWJIKaEGdLf9BJDdE3",
+											"nodeType": "luaCommand",
+											"parameters": [ {
+												"name": "lineName",
+												"value": "\"GoodMiddle\""
+											}, {
+												"name": "upgradeLevel",
+												"value": "3"
+											}, {
+												"name": "scriptName",
+												"value": "nota_idefix_exampreparation.upgradeLine"
+											} ],
+											"scriptName": "nota_idefix_exampreparation.upgradeLine"
+										}, {
+											"children": [],
+											"id": "VdBJJeFJxdTkuEwftT4LSNZJKNecV917",
+											"nodeType": "success",
+											"parameters": []
+										} ],
+										"id": "ikpejD1nmXZwl64i60xfDi7Sx704DpUJ",
+										"nodeType": "luaCondition",
+										"parameters": [ {
+											"name": "expression",
+											"value": "Spring.GetTeamResources(Spring.GetLocalTeamID(), 'metal') >= 900"
+										}, {
+											"name": "repeat",
+											"value": "false"
+										} ]
+									} ],
+									"id": "70DTi2QhSuPKiDtDS5HBRUtF3JhRixgY",
+									"nodeType": "luaCondition",
+									"parameters": [ {
+										"name": "expression",
+										"value": "#global.combatUnits < 25"
+									}, {
+										"name": "repeat",
+										"value": "false"
+									} ]
+								} ],
+								"id": "LVQGChMD3fFGAkuRztPLHKioXL5BYx09",
+								"nodeType": "luaCondition",
+								"parameters": [ {
+									"name": "expression",
+									"value": "#global.gatherers[2] < gatherersPerLane"
+								}, {
+									"name": "repeat",
+									"value": "false"
+								} ]
+							} ],
+							"id": "vdH4WMtumPgEiDj9wG87aF8uokB8X9uH",
+							"nodeType": "luaCondition",
+							"parameters": [ {
+								"name": "expression",
+								"value": "#global.gatherers[1] < gatherersPerLane"
+							}, {
+								"name": "repeat",
+								"value": "false"
+							} ]
+						}, {
+							"children": [],
+							"id": "mEdC5kooDihpe7XMmEuTxRaUv9WJ1rcB",
+							"nodeType": "success",
+							"parameters": []
+						} ],
+						"id": "8ETDSQnlpRyHYpHgfTSATQay6zFM8Dg8",
+						"nodeType": "luaCondition",
+						"parameters": [ {
+							"name": "expression",
+							"value": "Spring.GetTeamResources(Spring.GetLocalTeamID(), 'metal') > missionInfo.buy['armfark']"
+						}, {
+							"name": "repeat",
+							"value": "false"
+						} ]
+					}, {
+						"children": [],
+						"id": "MAxS4iB0jDQvYTubx1xRwhB8CtLDDH10",
+						"nodeType": "luaCommand",
+						"parameters": [ {
+							"name": "var",
+							"value": "global.gatherers"
+						}, {
+							"name": "value",
+							"value": "nota_idefix_exampreparation.getGatherers(global.gatherers)"
+						}, {
+							"name": "scriptName",
+							"value": "store"
+						} ],
+						"scriptName": "store"
+					}, {
+						"children": [],
+						"id": "3Km8lrwYNBta6SjJLFMbOTztlBcUJinM",
+						"nodeType": "luaCommand",
+						"parameters": [ {
+							"name": "var",
+							"value": "global.combatUnits"
+						}, {
+							"name": "value",
+							"value": "nota_idefix_exampreparation.getCombatUnits(global.combatUnits)"
+						}, {
+							"name": "scriptName",
+							"value": "store"
+						} ],
+						"scriptName": "store"
+					} ],
+					"id": "x1hpF8heqj1cICATVHbJ4pRcs9cJIExb",
+					"nodeType": "sequence",
+					"parameters": []
+				} ],
+				"id": "yod8B0qL2lD4HLGkC7MbFQPEceu3Ku8i",
+				"nodeType": "repeat",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [],
+					"id": "NHzjjlz55Bu5e4bi3N71EDPWH0chrZZo",
+					"nodeType": "reference",
+					"parameters": [ {
+						"name": "behaviourName",
+						"value": "nota_idefix_exampreparation.kiting"
+					} ],
+					"referenceInputs": [ {
+						"name": "lane",
+						"value": "lanes[2]"
+					} ],
+					"referenceOutputs": []
+				} ],
+				"id": "CkA6GcuKnqAaJ5p1y6TcTLfZ3UgT3BHT",
+				"nodeType": "repeat",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [],
+					"id": "Cs7uetJW4WAjw3oMoPomW17KXdHdGRpD",
+					"nodeType": "reference",
+					"parameters": [ {
+						"name": "behaviourName",
+						"value": "nota_idefix_exampreparation.collect"
+					} ],
+					"referenceInputs": [ {
+						"name": "lane",
+						"value": "lanes[1]"
+					}, {
+						"name": "laneIndex",
+						"value": "1"
+					} ],
+					"referenceOutputs": []
+				} ],
+				"id": "UskroBrWLG0EYwYWNsEmpTBl2ljZWzbr",
+				"nodeType": "repeat",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [],
+					"id": "8Uq8ogGebPKIl7CI3DcM3iyzlDb1ljO9",
+					"nodeType": "reference",
+					"parameters": [ {
+						"name": "behaviourName",
+						"value": "nota_idefix_exampreparation.collect"
+					} ],
+					"referenceInputs": [ {
+						"name": "lane",
+						"value": "lanes[2]"
+					}, {
+						"name": "laneIndex",
+						"value": "2"
+					} ],
+					"referenceOutputs": []
+				} ],
+				"id": "7xCF8SZXrjZSsjFvUnM09qt4ysFvhAOl",
+				"nodeType": "repeat",
+				"parameters": []
+			} ],
+			"id": "9MgcqCOrSd4PesJRSj1JUJSZ0dATYlXC",
+			"nodeType": "parallel",
+			"parameters": [ {
+				"name": "mode",
+				"value": "all-success"
+			} ]
+		} ],
+		"id": "dB2DFN0hh2h66L53Z5BDWOsoux0jWNus",
+		"nodeType": "sequence",
+		"parameters": []
+	}
+}

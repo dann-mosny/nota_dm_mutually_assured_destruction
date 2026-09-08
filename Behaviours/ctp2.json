@@ -1,0 +1,341 @@
+{
+	"additionalNodes": [],
+	"additionalParameters": {
+		"root": {
+			"height": 108,
+			"width": 216
+		}
+	},
+	"inputs": [],
+	"outputs": [],
+	"properties": {
+		"1ketTKEwTeeT8ofG2jcR2ckyfL3naVAc": {
+			"height": 72,
+			"title": "nota_dm_mutually_assured_destruction.captureHills",
+			"width": 393,
+			"x": 703,
+			"y": 417
+		},
+		"3IHg8VuM1olOdFCw3U1Nde5XtQkq6G4q": {
+			"height": 94,
+			"title": "store",
+			"width": 240,
+			"x": 969,
+			"y": -182
+		},
+		"4KwJmKZMbc7WWypMgfEQ0JaQUSDr81Yu": {
+			"height": 54,
+			"title": "Transporter",
+			"width": 156,
+			"x": 742,
+			"y": -164
+		},
+		"563xzMbI9s54hbspsfPvVU0N0y0SrYcg": {
+			"height": 112,
+			"title": "nota_dm_mutually_assured_destruction.give(Un)LoadOrder",
+			"width": 445,
+			"x": 1316,
+			"y": 18
+		},
+		"5AgslveNuO8z1N6Ks6gsiPSLstb9mMyc": {
+			"height": 92,
+			"title": "store",
+			"width": 191,
+			"x": 985,
+			"y": -48
+		},
+		"I1giFz2PY9TZI9ptNrHYy4KGxOQFfcm6": {
+			"height": 70,
+			"title": "parallel",
+			"width": 202,
+			"x": 724,
+			"y": -81
+		},
+		"JK0Dnqe5196x7KYHw8eSsALCp8Gt6zHp": {
+			"height": 70,
+			"title": "roleSplit",
+			"width": 202,
+			"x": 451,
+			"y": 97
+		},
+		"MHi849X05zg91cI10p8MnPvhgQCZBvmv": {
+			"height": 72,
+			"title": "waitUntil",
+			"width": 150,
+			"x": 448,
+			"y": 600
+		},
+		"PEcIpYQLoIg5S6WsAtNWmtE4XrmhGXe5": {
+			"height": 112,
+			"title": "nota_dm_mutually_assured_destruction.give(Un)LoadOrder",
+			"width": 630,
+			"x": 1314,
+			"y": 219
+		},
+		"RRBzi2dy2iksPV4p5GD223COQnHPfR1j": {
+			"height": 90,
+			"title": "luaCondition",
+			"width": 194,
+			"x": 907,
+			"y": 90
+		},
+		"V25A5p6e3PMxGIt6AAb7ds86OxkZqY60": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 708,
+			"y": 101
+		},
+		"ZAQLH8DAxk98gRIRThFtIIE3J8PPQuHx": {
+			"height": 70,
+			"title": "roleSplit",
+			"width": 202,
+			"x": 449,
+			"y": 355
+		},
+		"g4bsLRIMQGadQaofkNKXhFo4iSHWx1tS": {
+			"height": 54,
+			"title": "Transporter",
+			"width": 156,
+			"x": 715,
+			"y": 315
+		},
+		"hjDJWho49petI4duVW5auYtR67EEt5Dv": {
+			"height": 54,
+			"title": "NotTransporter",
+			"width": 178,
+			"x": 685,
+			"y": 194
+		},
+		"kPQJ9yg4tpKUD4BWh0Pv4NfHi8R66xwg": {
+			"height": 54,
+			"title": "elseBranch",
+			"width": 152,
+			"x": 1317,
+			"y": 139
+		},
+		"lG5U2cnFppV87XoKLBoL5gib95aHE47k": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 252,
+			"y": 17
+		},
+		"lc7ALbzvHRwoTCxPaUO3VzoN0CRK6UBI": {
+			"height": 102,
+			"title": "store",
+			"width": 199,
+			"x": 443,
+			"y": -242
+		},
+		"rq60lgaxoPgWXuBj2BfcdsKwKFPP6XfA": {
+			"height": 54,
+			"title": "nota_dm_mutually_assured_destruction.endMission",
+			"width": 391,
+			"x": 450,
+			"y": 510
+		},
+		"umkxwtTlTdMz802q1R5TnCWHbiw3DfVc": {
+			"height": 71,
+			"title": "roleSplit",
+			"width": 206,
+			"x": 446,
+			"y": -81
+		}
+	},
+	"roles": [ {
+		"categories": [ "Common.transports" ],
+		"name": "Role 0"
+	}, {
+		"categories": [],
+		"name": "Role 1"
+	} ],
+	"root": {
+		"children": [ {
+			"children": [],
+			"id": "lc7ALbzvHRwoTCxPaUO3VzoN0CRK6UBI",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "missionInfo"
+			}, {
+				"name": "value",
+				"value": "core.MissionInfo()"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [ {
+				"children": [],
+				"id": "4KwJmKZMbc7WWypMgfEQ0JaQUSDr81Yu",
+				"nodeType": "success",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [],
+					"id": "3IHg8VuM1olOdFCw3U1Nde5XtQkq6G4q",
+					"nodeType": "luaCommand",
+					"parameters": [ {
+						"name": "var",
+						"value": "groupExtents"
+					}, {
+						"name": "value",
+						"value": "Common.groupExtents()"
+					}, {
+						"name": "scriptName",
+						"value": "store"
+					} ],
+					"scriptName": "store"
+				}, {
+					"children": [],
+					"id": "5AgslveNuO8z1N6Ks6gsiPSLstb9mMyc",
+					"nodeType": "luaCommand",
+					"parameters": [ {
+						"name": "var",
+						"value": "unitsToLoadCount"
+					}, {
+						"name": "value",
+						"value": "#units"
+					}, {
+						"name": "scriptName",
+						"value": "store"
+					} ],
+					"scriptName": "store"
+				} ],
+				"id": "I1giFz2PY9TZI9ptNrHYy4KGxOQFfcm6",
+				"nodeType": "parallel",
+				"parameters": [ {
+					"name": "mode",
+					"value": "all-success"
+				} ]
+			} ],
+			"id": "umkxwtTlTdMz802q1R5TnCWHbiw3DfVc",
+			"nodeType": "roleSplit",
+			"parameters": [ {
+				"name": "mode",
+				"value": "all-success"
+			} ]
+		}, {
+			"children": [ {
+				"children": [ {
+					"children": [ {
+						"children": [],
+						"id": "563xzMbI9s54hbspsfPvVU0N0y0SrYcg",
+						"nodeType": "luaCommand",
+						"parameters": [ {
+							"name": "unload",
+							"value": "false"
+						}, {
+							"name": "center",
+							"value": "groupExtents[\"center\"]"
+						}, {
+							"name": "radius",
+							"value": "groupExtents[\"maxDistance\"]"
+						}, {
+							"name": "scriptName",
+							"value": "nota_dm_mutually_assured_destruction.give(Un)LoadOrder"
+						} ],
+						"scriptName": "nota_dm_mutually_assured_destruction.give(Un)LoadOrder"
+					}, {
+						"children": [],
+						"id": "kPQJ9yg4tpKUD4BWh0Pv4NfHi8R66xwg",
+						"nodeType": "success",
+						"parameters": []
+					} ],
+					"id": "RRBzi2dy2iksPV4p5GD223COQnHPfR1j",
+					"nodeType": "luaCondition",
+					"parameters": [ {
+						"name": "expression",
+						"value": "unitsToLoadCount > 0"
+					}, {
+						"name": "repeat",
+						"value": "false"
+					} ]
+				}, {
+					"children": [],
+					"id": "PEcIpYQLoIg5S6WsAtNWmtE4XrmhGXe5",
+					"nodeType": "luaCommand",
+					"parameters": [ {
+						"name": "unload",
+						"value": "true"
+					}, {
+						"name": "center",
+						"value": "missionInfo[\"enemyPositions\"][1]+Vec3(50,0,50)"
+					}, {
+						"name": "radius",
+						"value": "75"
+					}, {
+						"name": "scriptName",
+						"value": "nota_dm_mutually_assured_destruction.give(Un)LoadOrder"
+					} ],
+					"scriptName": "nota_dm_mutually_assured_destruction.give(Un)LoadOrder"
+				} ],
+				"id": "V25A5p6e3PMxGIt6AAb7ds86OxkZqY60",
+				"nodeType": "sequence",
+				"parameters": []
+			}, {
+				"children": [],
+				"id": "hjDJWho49petI4duVW5auYtR67EEt5Dv",
+				"nodeType": "success",
+				"parameters": []
+			} ],
+			"id": "JK0Dnqe5196x7KYHw8eSsALCp8Gt6zHp",
+			"nodeType": "roleSplit",
+			"parameters": [ {
+				"name": "mode",
+				"value": "all-success"
+			} ]
+		}, {
+			"children": [ {
+				"children": [],
+				"id": "g4bsLRIMQGadQaofkNKXhFo4iSHWx1tS",
+				"nodeType": "success",
+				"parameters": []
+			}, {
+				"children": [],
+				"id": "1ketTKEwTeeT8ofG2jcR2ckyfL3naVAc",
+				"nodeType": "luaCommand",
+				"parameters": [ {
+					"name": "hillHeight",
+					"value": "missionInfo[\"areaHeight\"]"
+				}, {
+					"name": "scriptName",
+					"value": "nota_dm_mutually_assured_destruction.captureHills"
+				} ],
+				"scriptName": "nota_dm_mutually_assured_destruction.captureHills"
+			} ],
+			"id": "ZAQLH8DAxk98gRIRThFtIIE3J8PPQuHx",
+			"nodeType": "roleSplit",
+			"parameters": [ {
+				"name": "mode",
+				"value": "all-success"
+			} ]
+		}, {
+			"children": [],
+			"id": "rq60lgaxoPgWXuBj2BfcdsKwKFPP6XfA",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "scriptName",
+				"value": "nota_dm_mutually_assured_destruction.endMission"
+			} ],
+			"scriptName": "nota_dm_mutually_assured_destruction.endMission"
+		}, {
+			"children": [],
+			"id": "MHi849X05zg91cI10p8MnPvhgQCZBvmv",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "condition",
+				"value": "false"
+			}, {
+				"name": "scriptName",
+				"value": "waitUntil"
+			} ],
+			"scriptName": "waitUntil"
+		} ],
+		"id": "lG5U2cnFppV87XoKLBoL5gib95aHE47k",
+		"nodeType": "sequence",
+		"parameters": []
+	}
+}
