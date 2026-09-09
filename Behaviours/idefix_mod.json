@@ -20,14 +20,14 @@
 			"height": 60,
 			"title": "repeat",
 			"width": 131,
-			"x": 1434,
+			"x": 1435,
 			"y": -295
 		},
 		"3Km8lrwYNBta6SjJLFMbOTztlBcUJinM": {
 			"height": 94,
 			"title": "store",
 			"width": 576,
-			"x": 2001,
+			"x": 2002,
 			"y": -144
 		},
 		"70DTi2QhSuPKiDtDS5HBRUtF3JhRixgY": {
@@ -41,21 +41,21 @@
 			"height": 60,
 			"title": "repeat",
 			"width": 131,
-			"x": 1678,
+			"x": 1679,
 			"y": 380
 		},
 		"8ETDSQnlpRyHYpHgfTSATQay6zFM8Dg8": {
 			"height": 90,
 			"title": "luaCondition",
 			"width": 618,
-			"x": 1965,
+			"x": 1966,
 			"y": -383
 		},
 		"8Uq8ogGebPKIl7CI3DcM3iyzlDb1ljO9": {
 			"height": 193,
 			"title": "mid gatherers",
 			"width": 307,
-			"x": 1869,
+			"x": 1870,
 			"y": 523
 		},
 		"8nESNr5noFjWXSIa4P8YbRKugLLMw1R7": {
@@ -69,21 +69,21 @@
 			"height": 70,
 			"title": "parallel",
 			"width": 202,
-			"x": 1085,
+			"x": 1086,
 			"y": 34
 		},
 		"BTP4kDPoeIa3k6azPnnknITjhSiPbT8W": {
 			"height": 92,
 			"title": "store",
 			"width": 192,
-			"x": 502,
-			"y": -396
+			"x": 492,
+			"y": -448
 		},
 		"Cs7uetJW4WAjw3oMoPomW17KXdHdGRpD": {
 			"height": 193,
 			"title": "top gatherers",
 			"width": 307,
-			"x": 2121,
+			"x": 2122,
 			"y": 312
 		},
 		"LVQGChMD3fFGAkuRztPLHKioXL5BYx09": {
@@ -97,7 +97,7 @@
 			"height": 94,
 			"title": "store",
 			"width": 522,
-			"x": 2018,
+			"x": 2019,
 			"y": -259
 		},
 		"MQBq99N3WQjvwNP4gD1UWSY8l48QEXM6": {
@@ -106,6 +106,13 @@
 			"width": 449,
 			"x": 2874,
 			"y": -95
+		},
+		"NsCVh7kT6F6BxvJCQtdJzIuFCPWYx1hd": {
+			"height": 92,
+			"title": "store",
+			"width": 216,
+			"x": 493,
+			"y": -350
 		},
 		"ON3ZtfhAErM6lyVWmVVLnzWxterq7YmD": {
 			"height": 92,
@@ -125,7 +132,7 @@
 			"height": 60,
 			"title": "repeat",
 			"width": 131,
-			"x": 1649,
+			"x": 1650,
 			"y": 207
 		},
 		"VdBJJeFJxdTkuEwftT4LSNZJKNecV917": {
@@ -153,22 +160,22 @@
 			"height": 94,
 			"title": "store",
 			"width": 198,
-			"x": 1966,
+			"x": 1967,
 			"y": -895
 		},
 		"aZW5DQJHzTJuSSmZWZtL4KpxDOg7Zsaf": {
 			"height": 94,
 			"title": "store",
 			"width": 524,
-			"x": 1972,
+			"x": 1973,
 			"y": -714
 		},
 		"b2NHpRSVhZbgsKiQEoSQehUYIKlAKZtN": {
 			"height": 94,
 			"title": "store",
 			"width": 757,
-			"x": 504,
-			"y": -302
+			"x": 521,
+			"y": -247
 		},
 		"bSYAi37lAbZDjjdrqwobv8JVEhlIlfqU": {
 			"height": 72,
@@ -181,7 +188,7 @@
 			"height": 94,
 			"title": "store",
 			"width": 524,
-			"x": 1972,
+			"x": 1973,
 			"y": -619
 		},
 		"dB2DFN0hh2h66L53Z5BDWOsoux0jWNus": {
@@ -196,7 +203,7 @@
 			"title": "store",
 			"width": 198,
 			"x": 492,
-			"y": -508
+			"y": -545
 		},
 		"h8YNTka0NDrHpGKqMSBvtiUB7NuriPSf": {
 			"height": 60,
@@ -209,8 +216,8 @@
 			"height": 92,
 			"title": "store",
 			"width": 194,
-			"x": 516,
-			"y": -199
+			"x": 521,
+			"y": -146
 		},
 		"ikpejD1nmXZwl64i60xfDi7Sx704DpUJ": {
 			"height": 90,
@@ -244,14 +251,14 @@
 			"height": 60,
 			"title": "sequence",
 			"width": 143,
-			"x": 1687,
+			"x": 1688,
 			"y": -396
 		},
 		"tnoV1RZVBbbJlrLh1b8uJOqJQAoAws4t": {
 			"height": 72,
 			"title": "echo",
 			"width": 200,
-			"x": 2038,
+			"x": 2039,
 			"y": -23
 		},
 		"vdH4WMtumPgEiDj9wG87aF8uokB8X9uH": {
@@ -265,21 +272,21 @@
 			"height": 60,
 			"title": "sequence",
 			"width": 143,
-			"x": 1694,
+			"x": 1695,
 			"y": -149
 		},
 		"xcGVcEiCLGaEZ8VjbfVYeJtJu7DVLZ4Q": {
 			"height": 92,
 			"title": "store",
 			"width": 186,
-			"x": 518,
-			"y": -98
+			"x": 525,
+			"y": -52
 		},
 		"yod8B0qL2lD4HLGkC7MbFQPEceu3Ku8i": {
 			"height": 60,
 			"title": "repeat",
 			"width": 131,
-			"x": 1437,
+			"x": 1438,
 			"y": -31
 		}
 	},
@@ -312,7 +319,22 @@
 				"value": "global.combatUnits"
 			}, {
 				"name": "value",
-				"value": "{{},dict = {}}"
+				"value": "{}"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [],
+			"id": "NsCVh7kT6F6BxvJCQtdJzIuFCPWYx1hd",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "global.combatUnitsDict"
+			}, {
+				"name": "value",
+				"value": "{}"
 			}, {
 				"name": "scriptName",
 				"value": "store"
@@ -561,7 +583,7 @@
 							"value": "void"
 						}, {
 							"name": "value",
-							"value": "nota_idefix_exampreparation.getCombatUnits(global.combatUnits)"
+							"value": "UpdateLugers(global.combatUnits, global.combatUnitsDict)"
 						}, {
 							"name": "scriptName",
 							"value": "store"
